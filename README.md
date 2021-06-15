@@ -35,4 +35,4 @@ The customer has grown their user base and song database and want to move their 
 
 # Temperature Sensor & Immigration Data project:
 
-For more details please read the README.md section 
+The project uses multiple technologies to address customer specific use case. For more details please read the README.md section in the project
