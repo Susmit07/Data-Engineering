@@ -1,5 +1,5 @@
 # Data-Engineering
-Freelance Big Data and ETL pipeline projects
+Freelancing Big Data and ETL pipeline projects
 
 
 # Project: Data Modeling with Postgres
